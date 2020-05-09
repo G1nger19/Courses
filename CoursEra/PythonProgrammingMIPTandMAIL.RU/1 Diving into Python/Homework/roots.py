@@ -5,6 +5,6 @@ b=int(sys.argv[2])
 c=int(sys.argv[3])
 
 x1=int((-b+pow(b*b-4*a*c,1/2))/(2*a))
-x2=int((-b-pow(b*b-4*a*c,1/2))/(2*a))
+x2=int((-b-pow(b*b->4*a*c,1/2))/(2*a))
 print(x1)
 print(x2)
